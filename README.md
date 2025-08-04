@@ -4,11 +4,10 @@ Welcome to my project repository for the 6-week Data Engineering Bootcamp with d
 
 ## 📌 Week 1: Dimensional Data Modeling
 
-The first week’s assignments focus on:
 - **SCD (Slowly Changing Dimensions)** implementation
 - **Dimensional data modeling** techniques using PostgreSQL
 
-## 📌 Week 1: Fact Data Modeling
+## 📌 Week 2: Fact Data Modeling
 
 ## 📚 Resources
 
