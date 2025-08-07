@@ -14,9 +14,14 @@ Welcome to my project repository for the 6-week Data Engineering Bootcamp with d
 - Focuses on balancing compact modeling with flexible querying, teaching how to build and interpret compressed fact structures to support efficient analytics pipelines.
 
 ## 📌 Week 3: Spark Fundamentals
-- Introduces Spark’s core architecture: DAG planning, memory management, and join strategies—grounded in a lab showcasing broadcast/hybrid join optimizations.
+- Introduces Spark’s core architecture: DAG planning, memory management, and join strategies, grounded in a lab showcasing broadcast/hybrid join optimizations.
 - Emphasizes management of Spark notebooks and production pipelines: caching strategies, CI/CD integration, automated testing, and performance tuning.
 - Centers on scalable batch pipeline engineering: partitioned workflows, file format optimizations, shuffle reduction, and resource tuning in real-world settings.
+
+## 📌 Week 3: Apache Flink Traning
+- Prepares the foundation - local environment, Kafka connectivity, and Flink operator readiness for building streaming pipelines.
+- Establishes real-time processing principles, framing latency trade‑offs and resilience while walking through a Kafka-to-Postgres streaming pipeline.
+- Delves into stateful and time-based processing, explaining event-time semantics, windowing strategies, and fault tolerance through checkpoints.
 
 ## 📚 Resources
 
