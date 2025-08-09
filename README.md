@@ -18,10 +18,16 @@ Welcome to my project repository for the 6-week Data Engineering Bootcamp with d
 - Emphasizes management of Spark notebooks and production pipelines: caching strategies, CI/CD integration, automated testing, and performance tuning.
 - Centers on scalable batch pipeline engineering: partitioned workflows, file format optimizations, shuffle reduction, and resource tuning in real-world settings.
 
-## 📌 Week 3: Apache Flink Traning
+## 📌 Week 4: Apache Flink Traning
 - Prepares the foundation - local environment, Kafka connectivity, and Flink operator readiness for building streaming pipelines.
 - Establishes real-time processing principles, framing latency trade‑offs and resilience while walking through a Kafka-to-Postgres streaming pipeline.
 - Delves into stateful and time-based processing, explaining event-time semantics, windowing strategies, and fault tolerance through checkpoints.
+
+## 📌 Week 5: Applying Analytical Patterns
+- Builds a solid foundation in SQL analytics: grouping techniques, cohort retention models and state‑based growth accounting—all pivotal for strategic metric tracking.
+- Advances into more nuanced patterns: rolling window analysis, funnel conversion modeling, and pattern classification to refine analytical decisions.
+- Actionable SQL patterns are paired with defined types (aggregation, cumulative, window-based), enabling engineers to select the right approach for each business objective.
+
 
 ## 📚 Resources
 
