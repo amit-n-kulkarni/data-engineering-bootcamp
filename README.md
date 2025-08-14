@@ -28,6 +28,9 @@ Welcome to my project repository for the 6-week Data Engineering Bootcamp with d
 - Advances into more nuanced patterns: rolling window analysis, funnel conversion modeling, and pattern classification to refine analytical decisions.
 - Actionable SQL patterns are paired with defined types (aggregation, cumulative, window-based), enabling engineers to select the right approach for each business objective.
 
+## 📌 Week 6: KPIs & Experimentation
+- Blends KPI formulation with experimentation design and metric strategy.
+- Interpreting data through the dual lenses of leading vs. lagging indicators and funnel behavior. The result is a strategic foundation for driving product improvements and measurable business growth.
 
 ## 📚 Resources
 
